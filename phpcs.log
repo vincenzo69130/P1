@@ -1,0 +1,339 @@
+
+FILE: /home/www/site2/images.inc.php
+--------------------------------------------------------------------------------
+FOUND 266 ERROR(S) AND 39 WARNING(S) AFFECTING 231 LINE(S)
+--------------------------------------------------------------------------------
+  29 | WARNING | Line exceeds 80 characters; contains 82 characters
+  35 | WARNING | Line exceeds 80 characters; contains 116 characters
+  37 | WARNING | Consider putting global function "cacheImage" in a static
+     |         | class
+  37 | WARNING | Line exceeds 80 characters; contains 90 characters
+  39 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  39 | ERROR   | Expected "if (...) {\n"; found "if (...)\n	{\n"
+  40 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  41 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  41 | ERROR   | Expected "if (...) {\n"; found "if (...)\n		{\n"
+  42 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  43 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  45 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  45 | ERROR   | Variable "memory_limit" is not in valid camel caps format
+  46 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  47 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  47 | ERROR   | Expected "if (...) {\n"; found "if (...)\n			{\n"
+  47 | ERROR   | Variable "memory_limit" is not in valid camel caps format
+  48 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  49 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  49 | ERROR   | Variable "current_memory" is not in valid camel caps format
+  50 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  51 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  51 | WARNING | Line exceeds 80 characters; contains 95 characters
+  52 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  52 | ERROR   | Variable "current_memory" is not in valid camel caps format
+  52 | ERROR   | Variable "memory_limit" is not in valid camel caps format
+  52 | ERROR   | Line exceeds maximum limit of 120 characters; contains 177
+     |         | characters
+  53 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  54 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  56 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  57 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  58 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  58 | ERROR   | Variable "max_x" is not in valid camel caps format
+  60 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  61 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  61 | ERROR   | Variable "max_x" is not in valid camel caps format
+  62 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  64 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  65 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  66 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  67 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  68 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  68 | ERROR   | Expected "if (...) {\n"; found "if(...)\n				{\n"
+  68 | ERROR   | Variable "max_x" is not in valid camel caps format
+  69 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  70 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  70 | ERROR   | Variable "max_x" is not in valid camel caps format
+  71 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  71 | ERROR   | Variable "max_x" is not in valid camel caps format
+  72 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  73 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  74 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  74 | WARNING | Line exceeds 80 characters; contains 81 characters
+  75 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  76 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  77 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  77 | WARNING | Line exceeds 80 characters; contains 113 characters
+  78 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  79 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  88 | WARNING | Consider putting global function "checkImage" in a static
+     |         | class
+  90 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  91 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  91 | ERROR   | Line exceeds maximum limit of 120 characters; contains 203
+     |         | characters
+  92 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  93 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  93 | WARNING | Line exceeds 80 characters; contains 99 characters
+  94 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  95 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+  95 | ERROR   | Line exceeds maximum limit of 120 characters; contains 159
+     |         | characters
+  96 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 101 | WARNING | Consider putting global function "checkImageUploadError" in a
+     |         | static class
+ 103 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 103 | ERROR   | Expected "if (...) {\n"; found "if (...)\n	{\n"
+ 104 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 105 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 106 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 107 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 108 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 109 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 109 | ERROR   | Break statement indented incorrectly; expected 7 spaces, found
+     |         | 4
+ 112 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 113 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 113 | ERROR   | Break statement indented incorrectly; expected 13 spaces,
+     |         | found 4
+ 115 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 116 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 117 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 117 | ERROR   | Break statement indented incorrectly; expected 7 spaces, found
+     |         | 4
+ 119 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 120 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 121 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 121 | ERROR   | Break statement indented incorrectly; expected 7 spaces, found
+     |         | 4
+ 122 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 123 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 132 | WARNING | Consider putting global function "isPicture" in a static class
+ 137 | WARNING | Line exceeds 80 characters; contains 106 characters
+ 140 | ERROR   | Expected "if (...) {\n"; found "if (...)\n    {\n"
+ 142 | WARNING | Line exceeds 80 characters; contains 84 characters
+ 151 | WARNING | Line exceeds 80 characters; contains 89 characters
+ 153 | WARNING | Line exceeds 80 characters; contains 85 characters
+ 155 | WARNING | Line exceeds 80 characters; contains 82 characters
+ 157 | WARNING | Line exceeds 80 characters; contains 85 characters
+ 160 | WARNING | Line exceeds 80 characters; contains 88 characters
+ 174 | WARNING | Consider putting global function "checkIco" in a static class
+ 176 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 177 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 177 | ERROR   | Line exceeds maximum limit of 120 characters; contains 158
+     |         | characters
+ 178 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 179 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 179 | WARNING | Line exceeds 80 characters; contains 87 characters
+ 180 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 181 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 181 | WARNING | Line exceeds 80 characters; contains 100 characters
+ 182 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 195 | WARNING | Consider putting global function "imageResize" in a static
+     |         | class
+ 195 | WARNING | Line exceeds 80 characters; contains 102 characters
+ 197 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 198 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 199 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 200 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 200 | WARNING | Line exceeds 80 characters; contains 102 characters
+ 201 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 201 | WARNING | Line exceeds 80 characters; contains 112 characters
+ 202 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 202 | WARNING | Line exceeds 80 characters; contains 84 characters
+ 203 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 204 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 204 | WARNING | Line exceeds 80 characters; contains 81 characters
+ 205 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 206 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 207 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 208 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 209 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 210 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 212 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 214 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 215 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 217 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 217 | ERROR   | Expected "if (...) {\n"; found "if (...)\n	{\n"
+ 218 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 219 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 220 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 221 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 222 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 222 | ERROR   | Expected "} else {\n"; found "}\n	else\n	{\n"
+ 223 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 224 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 224 | ERROR   | Expected "if (...) {\n"; found "if (...)\n		{\n"
+ 224 | ERROR   | Line exceeds maximum limit of 120 characters; contains 144
+     |         | characters
+ 225 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 226 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 227 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 228 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 228 | WARNING | Line exceeds 80 characters; contains 99 characters
+ 229 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 230 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 230 | ERROR   | Expected "} else {\n"; found "}\n		else\n		{\n"
+ 231 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 232 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 233 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 234 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 234 | WARNING | Line exceeds 80 characters; contains 102 characters
+ 235 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 236 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 238 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 240 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 240 | WARNING | Line exceeds 80 characters; contains 101 characters
+ 241 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 241 | ERROR   | Expected "if (...) {\n"; found "if (...)\n	{\n"
+ 242 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 243 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 244 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 245 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 246 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 247 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 247 | ERROR   | Expected "} else {\n"; found "}else\n	{\n"
+ 248 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 249 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 250 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 251 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 252 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 253 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 253 | ERROR   | Line exceeds maximum limit of 120 characters; contains 184
+     |         | characters
+ 254 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 267 | WARNING | Consider putting global function "imageCut" in a static class
+ 267 | WARNING | Line exceeds 80 characters; contains 120 characters
+ 269 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 270 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 272 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 273 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 274 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 275 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 276 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 278 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 279 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 280 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 281 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 282 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 283 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 285 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 286 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 286 | ERROR   | Line exceeds maximum limit of 120 characters; contains 155
+     |         | characters
+ 287 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 288 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 289 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 292 | WARNING | Consider putting global function "createSrcImage" in a static
+     |         | class
+ 294 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 295 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 296 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 297 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 298 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 298 | ERROR   | Break statement indented incorrectly; expected 6 spaces, found
+     |         | 3
+ 299 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 300 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 301 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 301 | ERROR   | Break statement indented incorrectly; expected 6 spaces, found
+     |         | 3
+ 302 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 303 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 304 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 305 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 305 | ERROR   | Break statement indented incorrectly; expected 6 spaces, found
+     |         | 3
+ 306 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 309 | WARNING | Consider putting global function "createDestImage" in a static
+     |         | class
+ 311 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 312 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 313 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 314 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 317 | WARNING | Consider putting global function "returnDestImage" in a static
+     |         | class
+ 319 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 320 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 321 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 322 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 323 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 324 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 324 | ERROR   | Break statement indented incorrectly; expected 6 spaces, found
+     |         | 3
+ 325 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 326 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 326 | WARNING | Line exceeds 80 characters; contains 106 characters
+ 327 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 328 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 328 | ERROR   | Break statement indented incorrectly; expected 6 spaces, found
+     |         | 3
+ 329 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 330 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 331 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 331 | WARNING | Line exceeds 80 characters; contains 109 characters
+ 332 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 333 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 333 | ERROR   | Break statement indented incorrectly; expected 6 spaces, found
+     |         | 3
+ 334 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 335 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 336 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 337 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 347 | WARNING | Consider putting global function "deleteImage" in a static
+     |         | class
+ 347 | ERROR   | Variable "id_item" is not in valid camel caps format
+ 347 | ERROR   | Variable "id_image" is not in valid camel caps format
+ 349 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 350 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 350 | ERROR   | Expected "if (...) {\n"; found "if (...)\n	{\n"
+ 350 | ERROR   | Variable "id_image" is not in valid camel caps format
+ 351 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 352 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 353 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 354 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 354 | ERROR   | Variable "id_item" is not in valid camel caps format
+ 355 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 355 | ERROR   | Variable "id_item" is not in valid camel caps format
+ 356 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 356 | ERROR   | Variable "id_image" is not in valid camel caps format
+ 356 | ERROR   | Variable "id_item" is not in valid camel caps format
+ 357 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 357 | ERROR   | Variable "id_item" is not in valid camel caps format
+ 358 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 359 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 360 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 361 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 362 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 362 | ERROR   | Variable "id_item" is not in valid camel caps format
+ 363 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 363 | ERROR   | Variable "id_item" is not in valid camel caps format
+ 364 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 364 | ERROR   | Expected "} else {\n"; found "}else // Product\n	{\n"
+ 365 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 366 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 367 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 368 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 368 | ERROR   | Variable "id_image" is not in valid camel caps format
+ 369 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 369 | ERROR   | Variable "id_product" is not in valid camel caps format
+ 369 | ERROR   | Variable "id_item" is not in valid camel caps format
+ 371 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 372 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 373 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 374 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 375 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 376 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 377 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 377 | WARNING | Line exceeds 80 characters; contains 86 characters
+ 378 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 379 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 380 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 381 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 382 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 382 | ERROR   | Variable "id_item" is not in valid camel caps format
+ 383 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+ 383 | ERROR   | Variable "id_item" is not in valid camel caps format
+ 384 | ERROR   | Spaces must be used to indent lines; tabs are not allowed
+--------------------------------------------------------------------------------
+
+Time: 0 seconds, Memory: 4.25Mb
+
